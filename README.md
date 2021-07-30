@@ -1,5 +1,5 @@
-# ecsd-kubernetes-jenkins-playground
-Resources for [Hands-on with Jenkins CI/CD Pipelines in Kubernetes](https://www.meetup.com/DevOpsPlayground/events/257184190/)
+# CI/CD Pipeline using Jenkin
+
 
 In this repository you can find all the resources required to build the components and run a simple example of CI/CD pipeline with Jenkins on Kubernetes.
 
